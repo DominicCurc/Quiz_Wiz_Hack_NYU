@@ -1,0 +1,86 @@
+h1 {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 20;
+  color: yellow;
+  font-size: 50px;  
+  text-align: center;    
+}
+
+h2 {
+  font-family: sans-serif, monospace;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: gray;
+  font-size: 25px;
+  margin-left: 38px;
+}
+
+h4 {
+  font-family: cursive, sans-serif, monospace;
+  color: white;
+  font-size: 15px;
+  padding: 0;
+  margin: 0;
+  line-height: 15px;
+}
+
+h5 {
+  font-family: cursive, sans-serif, monospace;
+  color: gray;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+p {
+  font-family: sans-serif, monospace;
+  color: lightblue;
+  font-size: 20px;
+  margin-left: 400px;
+  margin-top: 30px;
+}
+
+.button1 {
+  font-family: sans-serif, monospace;
+  background-color: black; 
+  color: limegreen;
+  border: none;
+}
+
+.button2 {
+  font-family: sans-serif, monospace;
+  background-color: black; 
+  color: red;
+  border: none;
+}
+
+.button3 {
+  font-family: sans-serif, monospace;
+  background-color: black; 
+  color: yellow;
+  border: none;
+}
+
+.button4 {
+  background-color: lightgreen;
+  vertical-align: middle;
+  margin-left: 100px;
+  border: none;
+}
+
+.container {  
+  display: block;
+  color: white;
+  font-family: sans-serif, monospace;  
+  vertical-align: middle;
+  margin: 0px;
+  padding-left: 25px;
+  margin-left: 400px;
+  cursor: pointer;
+  font-size: 18px;
+}
